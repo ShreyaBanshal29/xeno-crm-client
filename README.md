@@ -115,6 +115,11 @@ cd client
 npm start
 ```
 
+### Frontend Deployment
+
+The frontend is deployed using Vercel and can be accessed here: [https://xeno-crm-client-fj4d.vercel.app/](https://xeno-crm-client-fj4d.vercel.app/)
+
+
 ## API Endpoints
 
 - `/api/customers` - Customer management (POST)
